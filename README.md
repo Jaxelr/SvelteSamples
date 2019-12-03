@@ -1,3 +1,3 @@
-# Svelte Samples
+# Svelte Markdown editor
 
-Sample projects done while exploring the Svelted javascript library
+Built using the sample taken from  this [article on dev.to](https://dev.to/karkranikhil/build-markdown-editor-using-svelte-in-10-minutes-1c69)
