@@ -1,3 +1,3 @@
 # Svelte Samples
 
-Sample projects done while exploring the Svelted javascript library
+Sample projects done while exploring the Svelte javascript library
